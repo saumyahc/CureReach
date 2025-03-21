@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "689625137869",
+    "firebase_url": "https://curereach-15f21-default-rtdb.firebaseio.com",
+    "project_id": "curereach-15f21",
+    "storage_bucket": "curereach-15f21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689625137869:android:6ba45321f165515264df84",
+        "android_client_info": {
+          "package_name": "com.example.cure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689625137869-989rbtu4ois4c73du9jovpohm7v4i0c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqBQn4h91Qg9GAm0pWymSMTIhfk0fnHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689625137869-989rbtu4ois4c73du9jovpohm7v4i0c7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689625137869-28aa6e29dhr60i02vu4897mankbvv9fj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.curereach"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689625137869:android:7704233cd8a0b17d64df84",
+        "android_client_info": {
+          "package_name": "com.example.curereach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689625137869-989rbtu4ois4c73du9jovpohm7v4i0c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqBQn4h91Qg9GAm0pWymSMTIhfk0fnHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689625137869-989rbtu4ois4c73du9jovpohm7v4i0c7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689625137869-28aa6e29dhr60i02vu4897mankbvv9fj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.curereach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
