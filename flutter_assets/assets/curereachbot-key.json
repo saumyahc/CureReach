@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "curereachbot-egmr",
+  "private_key_id": "3fc00fd4011489cd40d0ce397c1d89c6863cdf62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvKzQQaZ7nwuK/\nMSu32vRTwn+gtn6sUGawA+yRUXjDwVeDfV3Vi3v+TW3DcmWolyhKOhuXpE+bF0Sp\nEUUSHaH7euhtKAw5mF3oWSyZ8W1e3X+FlFPrQddDxhh8cMYhOI6sk8YH5Nor/pzD\nK4zw3NFv5uGCMobVtm4F0B4O4Pcns0zJtbZK2PrF9sis1okiib0WxJxbyCIDDwWS\nQzqblSUyXLEkcgQVqUnudz1e2/cTxOIWL3OLVoJbr0gDfbZAHVqxRPMFg29iXmr2\nCboTKGc597LwHYG1EcafHW9NOIRchbrg5uG2oRnD2aRIIbU9Er91vSfSERgCgCl/\nSKY+jGtfAgMBAAECggEAVxkCMFnugxM/VQY4mA92O8yQgvwCvIjZJI+BRtiHJK7T\nynBMzDgsMwuKhgsyh0do5kMsCjjNvrqmB/Xgk/zToQv8+ceEUDMzO6rB6dv4ivwZ\n9RDz0LBdDvLktuiw1qdMmf+Etho685uZBiBlhs+7u8c2Z54z6T8y6Q4F7EAz8bIP\ncsHuwnbYK59YNXrawb4SX4f20HX1XN3J3bZ63PO5UfGycnuzD4RkN+DlLnqWAhBU\npLTQYmDYv2jBKRY6Fok60PONT9tAl4AZEkRX5H3BnpjAFzB+KjcnVaDSYSctGK7F\nqfyNZ87/4IcLToKs7uHQVyLOHMwqkiWyNXSjFY8UwQKBgQD4YoHqvkCYteZs9UhN\nHm8K5XEJZWN3cqPM267fWC1o7o/P3Vq1sQ1vK7xoymGXAstIvAXbhJ7L+lpbGmYt\nmmVc3oaQSHInNOw/tIt9CF4M1QzFMetNhn3Q1ojFuahiCQiebm0Tz/kjxBt95EEe\no+dSPOacNYTWFXJ02uwpajbtnwKBgQD2gFy6A0PQsco99swg0YEwtspkLM4TaRmP\nOfZv8GSozjO1igWTO3aOejq0Jnikof3KcjuaNlyMSC8PjCvBo43P0OfRld9v7pUP\nmtQKwkYCq6Sl0tPKz0FH7vf0uxFIJLDugkX7LwcV3dvwUs/YVuI00XIFV/MzFS7p\nGPgI+6IqQQKBgQC8kEQiyqZNiKJTC28FJNqWAhNrV65Iax6REiHS6qUmqR1CZ8BK\neQxC3ogdYa7urq9XG26y9R58qiXYTdVOP40+EK1Fcco/m3zS7CSNGkIUKdWVCs2g\nwD5ZwdR5jvWW31bMt/ZU+Skhjup0C0mokjO1ighkhHjA8e0/a0eoNTtX7wKBgQDf\nWsoqhkDRffeKE/E8n3kXIdnb0TldHzNYsyWYolMjHcx+5zRMB2pSiXBdwio4ysuC\nv+U/w5gySEnUJaeUStV5g4o6Pzn5W05XmGwf346+ZrbGxnS/5PH68w5cA5ESNKTZ\nSNOOWTtrVd8vMGpCVd+cClftfZbRJ5WdAtHkmdWDwQKBgQDTUF/GOOjLPECoANLm\nXgRKkIMdeXMECHB4Er7MZEKcIYwWEXVAriQE8509YZd/eIcTlxtwUP1PUt32hRqT\n8dEyOqjPEWy1UV2R1lONjtOaj1cM/I9ePXxD0UJMMFThFrSjp9jQsci7tlUsnV/K\nP/Nhy+WBKC4v/oYlubkeVeJAlQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "curereach@curereachbot-egmr.iam.gserviceaccount.com",
+  "client_id": "111956450984862520357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curereach%40curereachbot-egmr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
