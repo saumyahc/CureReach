@@ -13,9 +13,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDTqBQn4h91Qg9GAm0pWymSMTIhfk0fnHk',
-    appId: '1:689625137869:android:7704233cd8a0b17d64df84',
-    messagingSenderId: '689625137869',
+    apiKey: 'YOUR API KEY',
+    appId: 'YOUT API ID',
+    messagingSenderId: 'YOUR ID',
     projectId: 'curereach-15f21',
     authDomain: 'curereach-15f21.firebaseapp.com',
     storageBucket: 'curereach-15f21.appspot.com',
@@ -25,9 +25,9 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDTqBQn4h91Qg9GAm0pWymSMTIhfk0fnHk',
-    appId: '1:689625137869:android:7704233cd8a0b17d64df84',
-    messagingSenderId: '689625137869',
+    apiKey: 'YOUR API KEY',
+    appId: 'YOUR API ID',
+    messagingSenderId: 'YOUR ID',
     projectId: 'curereach-15f21',
     storageBucket: 'curereach-15f21.appspot.com',
     databaseURL:
